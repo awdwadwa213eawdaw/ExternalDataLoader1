@@ -1,0 +1,1 @@
+return {"I hope you trained your pokemon enough for this gym.", "I hear it's a tough one."}
