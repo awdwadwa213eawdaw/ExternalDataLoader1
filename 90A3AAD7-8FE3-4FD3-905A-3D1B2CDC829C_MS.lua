@@ -1,0 +1,1 @@
+return {"This park is usually filled with competitors...", "I guess they're all taking a break."}
