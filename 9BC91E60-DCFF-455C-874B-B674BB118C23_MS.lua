@@ -1,0 +1,1 @@
+return {'Fun fact Joshyy and Nabil own this game.', 'I guess that means they own me too.', 'There the best pbb devs ever so it does not matter'}
