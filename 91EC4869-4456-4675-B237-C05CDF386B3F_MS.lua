@@ -1,0 +1,1 @@
+return { "You will not be permitted to pass through to the Roria League unless you have earned all eight of Roria's gym badges.", "Please return again when you have proven your strength by collecting the badges." };
