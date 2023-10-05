@@ -1,0 +1,1 @@
+return {'My grandpa really likes pokemon.', 'They were the only friends he had growing up.'}
