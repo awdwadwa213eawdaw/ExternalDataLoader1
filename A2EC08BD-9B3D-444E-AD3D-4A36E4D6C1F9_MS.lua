@@ -1,0 +1,1 @@
+return { "The Gym here is really tough.", "I tried to fight the Gym Leader once and I got what was coming to me." }
