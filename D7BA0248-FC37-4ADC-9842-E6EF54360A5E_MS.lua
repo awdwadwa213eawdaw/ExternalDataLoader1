@@ -1,0 +1,1 @@
+return 'My pokemon and I prefer to be alone.'
