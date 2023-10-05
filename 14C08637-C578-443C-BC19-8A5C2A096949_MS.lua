@@ -1,0 +1,1 @@
+return { "There are some rare Pokemon that can only be found in these fishing holes", "Several Ice-type Pokemon have made this lake their home and live below the ice.", "I went ahead and drilled some holes in case others wanted to join in searching for these Pokemon." }
