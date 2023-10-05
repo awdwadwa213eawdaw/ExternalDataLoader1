@@ -1,0 +1,1 @@
+return {'Did you know that pokemon are better at using moves of their own type?', 'It makes sense.'}
