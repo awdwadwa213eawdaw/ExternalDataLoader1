@@ -1,0 +1,1 @@
+return 'Rosecove Beach is a great place for you and your pokemon to relax, and maybe even get a tan.'
