@@ -1,0 +1,1 @@
+return { "Welcome to the Skitty Lodge.","I\'m an old-school dude, too." }
