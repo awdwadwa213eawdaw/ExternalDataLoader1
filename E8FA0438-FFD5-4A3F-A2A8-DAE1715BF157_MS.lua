@@ -1,0 +1,1 @@
+return 'The Arcade is a fun place to play games and win big prizes.'
